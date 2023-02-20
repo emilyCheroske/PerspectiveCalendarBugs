@@ -1,4 +1,4 @@
-# Khronos Calendar Bug Tracker 🐛
+# Perspective Calendar Bug Tracker 🐛
 
 <p align="center">
   <picture>
@@ -8,7 +8,7 @@
 
 Hullo 👋 Thanks for stopping by!
 
-This is meant to be a convenient, public repo for tracking bugs and new feature requests for Khronos Calendar! Feel free to submit a new issue and use either the 'Bug' or 'Feature Request' template.
+This is meant to be a convenient, public repo for tracking bugs and new feature requests for Perspective! Feel free to submit a new issue and use either the 'Bug' or 'Feature Request' template.
 
 It's just me working on Khronos so I'll do my best to keep up with any bug reports!
 
